@@ -4,7 +4,7 @@
 "Username": "celononesopo",
      "Password": "PERsis1923//"
      },
- "Target Profit": "2000",
+ "Target Profit": "1.2000",
  "Target Win": "5000",
  "Lose Target": "0",
  "Reset If Target Profit": "OFF",
@@ -15,9 +15,9 @@
      "Name Bet Set": " jake jancok ",
      "Base Bet": "0.01",
      "Max Bet": "OFF",
-     "Chance": "80",
+     "Chance": "95",
      "Random Chance": {
-          "Toggle": "ON",
+          "Toggle": "OFF",
           "Min": "80",
           "Max": "86"
         },
@@ -29,9 +29,9 @@
               "If Win": "2"
             }
         },
-     "If Win": "1.05",
-     "If Lose": "1.02",
-     "Reset If Win": "12",
+     "If Win": "1",
+     "If Lose": "6.5",
+     "Reset If Win": "3",
      "Reset If Profit": "0.00000001",
      "Interval": "0"
      },{
