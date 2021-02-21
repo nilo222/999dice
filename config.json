@@ -1,10 +1,10 @@
 {
 
  "Account": {
-"Username": "celononesopo",
+"Username": "samed87",
      "Password": "PERsis1923//"
      },
- "Target Profit": "1.2000",
+ "Target Profit": "9991.2000",
  "Target Win": "5000",
  "Lose Target": "0",
  "Reset If Target Profit": "OFF",
@@ -29,9 +29,9 @@
               "If Win": "2"
             }
         },
-     "If Win": "1",
-     "If Lose": "6.5",
-     "Reset If Win": "3",
+     "If Win": "1.1",
+     "If Lose": "1.05",
+     "Reset If Win": "999",
      "Reset If Profit": "0.00000001",
      "Interval": "0"
      },{
