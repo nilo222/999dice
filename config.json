@@ -13,25 +13,25 @@
  "Config": [{
 
      "Name Bet Set": " jake jancok ",
-     "Base Bet": "0.01",
+     "Base Bet": "0.0001",
      "Max Bet": "OFF",
      "Chance": "95",
      "Random Chance": {
-          "Toggle": "OFF",
-          "Min": "80",
-          "Max": "86"
+          "Toggle": "ON",
+          "Min": "20",
+          "Max": "30"
         },
      "Bet": {
           "Bet": "Hi",
           "Hi / Low": {
-              "Toggle": "OFF",
-              "If Lose": "3",
-              "If Win": "2"
+              "Toggle": "ON",
+              "If Lose": "1",
+              "If Win": "1"
             }
         },
-     "If Win": "1.1",
-     "If Lose": "1.05",
-     "Reset If Win": "999",
+     "If Win": "1",
+     "If Lose": "1.35",
+     "Reset If Win": "1",
      "Reset If Profit": "0.00000001",
      "Interval": "0"
      },{
