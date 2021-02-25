@@ -1,7 +1,7 @@
 {
 
  "Account": {
-"Username": "samed87",
+"Username": "belutkasar",
      "Password": "PERsis1923//"
      },
  "Target Profit": "9991.2000",
@@ -18,8 +18,8 @@
      "Chance": "95",
      "Random Chance": {
           "Toggle": "ON",
-          "Min": "20",
-          "Max": "30"
+          "Min": "7",
+          "Max": "16"
         },
      "Bet": {
           "Bet": "Hi",
@@ -30,7 +30,7 @@
             }
         },
      "If Win": "1",
-     "If Lose": "1.35",
+     "If Lose": "1.1735",
      "Reset If Win": "1",
      "Reset If Profit": "0.00000001",
      "Interval": "0"
